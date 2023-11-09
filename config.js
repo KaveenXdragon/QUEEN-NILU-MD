@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
+WHATSAPP BOT BY Kaveen Chamodya
+WHATSAPP - 94761544363
+SUPPORT GROUP - https://chat.whatsapp.com/EsfrlG2HtbqDD3DZz1zvNw
+YOUTUBE - https://www.youtube.com/@user-br5rt1bw9z
 */
 
 const fs = require('fs');
@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;wroDlRwB#NFAwr-MihfOG-ngmuMxQ6ZQ1ii1ecxgNwp38zyYTxrc' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://kaveen_md_user:Ue846oZhkhbZjsRXkb5XKFSg7C8p3MXh@dpg-cl6fons72pts73fvmpr0-a.frankfurt-postgres.render.com/kaveen_md'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94761544363'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Kaviya_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'Inbox Not Allowed' // Inboc Block Message
 
-global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -47,23 +47,23 @@ global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Kaviya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/0ffb6ea6280d48b932bb6.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'Hello I m alive Now' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
@@ -71,12 +71,12 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/EsfrlG2HtbqDD3DZz1zvNw' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT: Master" //ur yt chanel name
+global.socialm = "GitHub: KaveenXdragon" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
